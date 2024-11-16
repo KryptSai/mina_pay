@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateManyBalanceArgs.d.ts","sourceRoot":"","sources":["../../../../../../../../../src/processor/api/generated/type-graphql/resolvers/crud/Balance/args/CreateManyBalanceArgs.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,sBAAsB,EAAE,MAAM,wCAAwC,CAAC;AAEhF,qBACa,qBAAqB;IAIhC,IAAI,EAAG,sBAAsB,EAAE,CAAC;IAKhC,cAAc,CAAC,EAAE,OAAO,GAAG,SAAS,CAAC;CACtC"}

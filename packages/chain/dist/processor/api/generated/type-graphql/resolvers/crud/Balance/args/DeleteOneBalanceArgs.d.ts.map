@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteOneBalanceArgs.d.ts","sourceRoot":"","sources":["../../../../../../../../../src/processor/api/generated/type-graphql/resolvers/crud/Balance/args/DeleteOneBalanceArgs.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,uBAAuB,EAAE,MAAM,yCAAyC,CAAC;AAElF,qBACa,oBAAoB;IAI/B,KAAK,EAAG,uBAAuB,CAAC;CACjC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"CreateManyAndReturnBlockArgs.d.ts","sourceRoot":"","sources":["../../../../../../../../../src/processor/api/generated/type-graphql/resolvers/crud/Block/args/CreateManyAndReturnBlockArgs.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,oBAAoB,EAAE,MAAM,sCAAsC,CAAC;AAE5E,qBACa,4BAA4B;IAIvC,IAAI,EAAG,oBAAoB,EAAE,CAAC;IAK9B,cAAc,CAAC,EAAE,OAAO,GAAG,SAAS,CAAC;CACtC"}

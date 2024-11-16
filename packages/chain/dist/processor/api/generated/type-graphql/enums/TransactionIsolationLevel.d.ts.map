@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionIsolationLevel.d.ts","sourceRoot":"","sources":["../../../../../../src/processor/api/generated/type-graphql/enums/TransactionIsolationLevel.ts"],"names":[],"mappings":"AAEA,oBAAY,yBAAyB;IACnC,eAAe,oBAAoB;IACnC,aAAa,kBAAkB;IAC/B,cAAc,mBAAmB;IACjC,YAAY,iBAAiB;CAC9B"}

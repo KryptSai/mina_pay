@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteOneBlockArgs.d.ts","sourceRoot":"","sources":["../../../../../../../../../src/processor/api/generated/type-graphql/resolvers/crud/Block/args/DeleteOneBlockArgs.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,qBAAqB,EAAE,MAAM,uCAAuC,CAAC;AAE9E,qBACa,kBAAkB;IAI7B,KAAK,EAAG,qBAAqB,CAAC;CAC/B"}

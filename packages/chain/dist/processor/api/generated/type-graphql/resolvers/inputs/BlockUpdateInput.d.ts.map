@@ -1,0 +1,1 @@
+{"version":3,"file":"BlockUpdateInput.d.ts","sourceRoot":"","sources":["../../../../../../../src/processor/api/generated/type-graphql/resolvers/inputs/BlockUpdateInput.ts"],"names":[],"mappings":"AAIA,OAAO,EAAE,6BAA6B,EAAE,MAAM,yCAAyC,CAAC;AAExF,qBACa,gBAAgB;IAI3B,MAAM,CAAC,EAAE,6BAA6B,GAAG,SAAS,CAAC;CACpD"}

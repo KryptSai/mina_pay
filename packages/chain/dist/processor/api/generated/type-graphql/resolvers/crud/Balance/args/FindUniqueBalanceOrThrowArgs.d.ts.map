@@ -1,0 +1,1 @@
+{"version":3,"file":"FindUniqueBalanceOrThrowArgs.d.ts","sourceRoot":"","sources":["../../../../../../../../../src/processor/api/generated/type-graphql/resolvers/crud/Balance/args/FindUniqueBalanceOrThrowArgs.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,uBAAuB,EAAE,MAAM,yCAAyC,CAAC;AAElF,qBACa,4BAA4B;IAIvC,KAAK,EAAG,uBAAuB,CAAC;CACjC"}

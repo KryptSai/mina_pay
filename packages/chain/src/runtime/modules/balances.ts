@@ -5,6 +5,7 @@ import { PublicKey } from "o1js";
 
 interface BalancesConfig {
   totalSupply: Balance;
+  admin: PublicKey;
 }
 
 @runtimeModule()
@@ -17,6 +18,7 @@ export class Balances extends BaseBalances<BalancesConfig> {
     address: PublicKey,
     amount: Balance
   ): Promise<void> {
+    assert(this.config.admin.equals(this.transaction.sender.value))
     const circulatingSupply = await this.circulatingSupply.get();
     const newCirculatingSupply = Balance.from(circulatingSupply.value).add(
       amount
